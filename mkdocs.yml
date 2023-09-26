@@ -6,6 +6,8 @@ theme:
     - navigation.sections
 
 site_url: 'https://pyscript.recipes/'
+
 extra:
   version:
     provider: mike
+    default: '11.0'
