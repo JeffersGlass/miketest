@@ -8,4 +8,4 @@ theme:
 site_url: 'https://pyscript.recipes/'
 extra:
   version:
-    provide: mike
+    provider: mike
