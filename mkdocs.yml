@@ -3,3 +3,6 @@ theme:
   name: material
   features:
     - navigation.sections
+
+plugins:
+  - mkdocs-pyscript

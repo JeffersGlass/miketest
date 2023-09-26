@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "47325320cedd1539b905999054ce3abae85738d1e6a6eebd82d1e71f7a326b64"
+            "sha256": "ba1b2e662108d3e27a82f9043694e306e6c8f7766d93766848450e1ba59b491f"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -266,6 +266,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.2"
+        },
+        "mkdocs-pyscript": {
+            "editable": true,
+            "path": "./../mkdocs-pyscript"
         },
         "packaging": {
             "hashes": [
