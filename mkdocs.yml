@@ -5,7 +5,7 @@ theme:
   features:
     - navigation.sections
 
-site_url: 'https://pyscript.recipes/'
+site_url: "https://jeffersglass.github.io/miketest"
 
 extra:
   version:
