@@ -13,7 +13,7 @@ while 1 < 2:
 ```
 
 ```{.py .py-pre}
-This is maybe some other code block?
+print("This is some pre-code")
 ```
 
 ```py

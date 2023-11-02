@@ -14,7 +14,7 @@ extra:
 
 plugins:
     - mkdocs-pyscript:
-        pyscript_version: "snapshots/2023.09.1.RC2"
+        pyscript_version: "snapshots/2023.11.1.RC3"
 
 markdown_extensions:
 - pymdownx.highlight:
